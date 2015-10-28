@@ -1,4 +1,5 @@
 asus_smartgesture_reload_fix
+-
 
 This little batch script is meant to help "fixing" the ASUS SmartGesture disabling problem. For some reason
 when most ASUS laptops with Windows 8.1 get in sleep state ASUS SmartGesture process never returns back if
