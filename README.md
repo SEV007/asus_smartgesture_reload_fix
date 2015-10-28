@@ -1,4 +1,4 @@
-############################################# asus_smartgesture_reload_fix #############################################
+########### asus_smartgesture_reload_fix ###########
 
 This little batch script is meant to help "fixing" the ASUS SmartGesture disabling problem. For some reason
 when most ASUS laptops with Windows 8.1 get in sleep state ASUS SmartGesture process never returns back if
@@ -14,5 +14,5 @@ If you want to add something or test it feel free to do so.
 ### any other versions of Windows, but it's supposed to work well with all laptops using ASUS SmartGesture with
 ### Windows 8.0, Windows 8.1 and Windows 10
 
--_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 PS: I hope this solved your problems and you are enjoying it ;]
