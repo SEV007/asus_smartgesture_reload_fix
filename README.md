@@ -18,5 +18,6 @@ Windows 8.0, Windows 8.1 and Windows 10 64bit version**
 Update
 -
 I had the same problem with SmartGesture again with Windows 10 Upgrade and I successfuly tested the script. Everything works great, so you can use it safely. Have fun!
+
 -
 PS: I hope this solved your problems and you are enjoying it ;]
